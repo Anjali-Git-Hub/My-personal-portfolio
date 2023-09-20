@@ -330,8 +330,8 @@
   }
   
   .hero-banner .w-100 {
-    mask-image: url("./Images/Heroimage.jpg");
-    -webkit-mask-image: url("./Images/Heroimage.jpg");
+    mask-image: url("./Images/heroimage.jpg");
+    -webkit-mask-image: url("./Images/heroimage.jpg");
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
